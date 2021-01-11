@@ -1,6 +1,6 @@
 [*]
 charset = utf-8
-end_of_line = crlf
+end_of_line = lf
 indent_size = 4
 indent_style = space
 insert_final_newline = false
@@ -589,7 +589,7 @@ ij_coffeescript_use_public_modifier = false
 ij_coffeescript_use_semicolon_after_statement = false
 ij_coffeescript_var_declaration_wrap = normal
 
-[{*.ctp,*.hphp,*.inc,*.module,*.php,*.php4,*.php5,*.phtml}]
+[{*.ctp,*.hphp,*.inc,*.module,*.php,*.php4,*.php5,*.phtml,.php_cs}]
 indent_style = tab
 ij_continuation_indent_size = 4
 ij_php_align_assignments = false
